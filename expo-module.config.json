@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "apple",
+    "android",
+    "web"
+  ],
+  "apple": {
+    "modules": [
+      "rngtmModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "expo.modules.rngtm.rngtmModule"
+    ]
+  }
+}
