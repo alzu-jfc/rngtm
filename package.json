@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "name": "rngtm",
+    "version": "1.0.0",
+    "workspaces": ["apps/*", "packages/*"]
+  }
+  
